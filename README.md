@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsGaurav
 
-- 🌱 My skills areProgramming Language: Java, Python, C++, C#. 
+- 🌱 My skills are Java, Python, C++, C#. 
      DSA, Artificial Intelligence, Machine Learning, Deep Learning.
      Android Studio
 - 💞️ I’m looking to collaborate on dev projects.
