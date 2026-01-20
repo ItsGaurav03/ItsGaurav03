@@ -24,9 +24,9 @@ I am currently pursuing my **Master's degree at SRH University** in Berlin. I am
 
 ### ⚡ About Me
 
-* **Location:** Köpenick, Berlin 🇩🇪
+* **Location:**  Berlin 🇩🇪
 * **Hobbies:** I'm an avid reader (currently reading *"Atomic Habits"*), and I stay active with gym, cycling, and walking.
-* **Fun Fact:** I love photography and image editing!
+* **Fun Fact:** I love photography!
 
 ---
 
