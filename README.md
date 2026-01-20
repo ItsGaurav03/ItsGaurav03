@@ -10,8 +10,8 @@ I am currently pursuing my **Master's degree at SRH University** in Berlin. I am
 
 * **Languages:** Python
 * **Core Areas:** Generative AI, LLMs, Machine Learning (Decision Trees, ANNs, SVMs)
-* **Projects:** Customer Churn Prediction System
-* **Tools:** Jupyter Notebooks, Git
+* **First Project:** Customer Churn Prediction System
+* **Tools:** Colab Notebooks, Git
 
 ---
 
