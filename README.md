@@ -1,13 +1,41 @@
-- 👋 Hi, I’m @ItsGaurav
+# Hi there, I'm Gaurav Sharma! 👋
 
-- 🌱 My skills are Java, HTML, CSS, 
-     DSA.
-     Android Studio
-- 💞️ I’m looking to collaborate on dev projects.
-- 📫 How to reach me ..
--    gs30020392@gmail.com
+### 🎓 Master's Student | 🤖 AI & LLM Enthusiast | 📍 Berlin, Germany
 
-<!---
-ItsGaurav03/ItsGaurav03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently pursuing my **Master's degree at SRH University** in Berlin. I am passionate about Artificial Intelligence, specifically focusing on developing and training **Large Language Models (LLMs)** and Machine Learning algorithms.
+
+---
+
+### 🛠️ Tech Stack & Interests
+
+* **Languages:** Python
+* **Core Areas:** Generative AI, LLMs, Machine Learning (Decision Trees, ANNs, SVMs)
+* **Projects:** Customer Churn Prediction System
+* **Tools:** Jupyter Notebooks, Git
+
+---
+
+### 🔭 Current Focus
+
+* I’m currently deepening my knowledge in **Large Language Models** and their applications.
+* I’m working on projects involving **Customer Churn Prediction** and advanced ML concepts.
+
+---
+
+### ⚡ About Me
+
+* **Location:** Köpenick, Berlin 🇩🇪
+* **Hobbies:** I'm an avid reader (currently reading *"Atomic Habits"*), and I stay active with gym, cycling, and walking.
+* **Fun Fact:** I love photography and image editing!
+
+---
+
+### 📫 Connect with Me
+
+**[<img align="left" alt="Gaurav's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]**
+**[<img align="left" alt="Gaurav's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]**
+
+<br />
+
+[linkedin]: https://www.linkedin.com/in/gaurav-sharma-560b77234
+[email]: mailto:sharmagauravdharampal29@gmail.com
